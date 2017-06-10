@@ -1,0 +1,2 @@
+# sample_repository
+好きにissue作ってもいいしpushしてもいいrepository
