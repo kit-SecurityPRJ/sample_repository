@@ -1,2 +1,3 @@
 # sample_repository
-好きにissue作ってもいいしpushしてもいいrepository
+
+- 本日は晴天なり 
